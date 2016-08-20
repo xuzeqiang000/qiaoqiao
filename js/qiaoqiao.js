@@ -5,5 +5,5 @@
     var aaa = 'dasfas';
     console.dir(aaa);
     alert('qiaoqiao')
-
+    alert('gsdgsdgsdg')
 })()
