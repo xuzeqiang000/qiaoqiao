@@ -4,5 +4,6 @@
 (function(){
     var aaa = 'dasfas';
     console.dir(aaa);
+    alert('qiaoqiao')
 
 })()
